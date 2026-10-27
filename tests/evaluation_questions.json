@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": "IT001",
+    "question": "How do I connect to the company VPN?",
+    "category": "vpn"
+  },
+  {
+    "id": "IT002",
+    "question": "What should I do if my company VPN connection fails?",
+    "category": "troubleshooting"
+  },
+  {
+    "id": "IT003",
+    "question": "How do I complete multi-factor authentication when connecting to the VPN?",
+    "category": "security"
+  },
+  {
+    "id": "IT004",
+    "question": "What is the company's procedure for resetting a forgotten password?",
+    "category": "password"
+  },
+  {
+    "id": "IT005",
+    "question": "What should I do if the company IT knowledge base does not contain the answer to my question?",
+    "category": "insufficient_evidence"
+  }
+]
