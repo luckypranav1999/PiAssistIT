@@ -236,3 +236,9 @@ uploads/
 
 # Python testing
 .pytest_cache/
+
+# Azure Functions local files
+local.settings.json
+.python_packages/
+.venv-azure/
+deploy.zip

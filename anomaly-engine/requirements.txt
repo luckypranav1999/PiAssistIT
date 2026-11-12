@@ -1,0 +1,8 @@
+azure-functions
+azure-identity
+azure-monitor-query
+azure-data-tables
+pandas
+scikit-learn
+langchain-openai
+azure-monitor-opentelemetry
